@@ -43,7 +43,8 @@ if __name__ == "__main__":
                 print(f"Received data: {result} sq.m")
                 break
             time.sleep(0.5)
-            
+        
+
     elif (user_input == "2") :
         # write to the pipe.txt file to proceed with the multiple entry process
         # first ask user to enter how many inputs they wish to enter in a row
@@ -82,5 +83,3 @@ if __name__ == "__main__":
                     print(f"{num} sq.ft --> {result.strip()} sq.m")
                 break
             time.sleep(0.5)
-
-
