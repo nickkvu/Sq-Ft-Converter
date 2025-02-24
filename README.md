@@ -67,5 +67,8 @@ Example of pipe.txt content after a request has been made and results have been 
 Code snippet of receiving multiple results for a multi-processing conversion request from the microservice
 ![Code snippet for receiving multi-data conversion](images/microa-mult-4.png) <br/><br/>
 
-Example in UI: User receives multiple resulting conversion for 10, 100, 1000, 2000 Sq.ft
+Example in UI: User receives multiple resulting conversions for 10, 100, 1000, 2000 Sq.ft
 ![Terminal view of data received by microservice of multi conversion](images/microa-single-5.png) <br/><br/>
+
+## UML Sequenece Diagram
+![uml diagram](images/uml-sequence-diagram-microserviceA.png)
