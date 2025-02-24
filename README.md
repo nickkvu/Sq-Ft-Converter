@@ -1,7 +1,7 @@
 # Sq-Ft-Converter (Microservice A)
 
 ## How to Request Data from Microservice A
-Using text files as the **communication pipe**, you must write the arguments/parameters to request data from the microservice to the **pipe.txt** file. 
+Using text files as the **communication pipe**, you must write the arguments/parameters to request data from the microservice to the **pipe.txt** file. **ADVISE: it is not required to test the program**
 
 ### Making Single Conversion
 To convert one value from Sq.ft to Sq.m, the pipe.txt file must have **2 arguments** separated by each line: process type and input.
